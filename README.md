@@ -1,5 +1,5 @@
-# Employee-Attrition-Problem
-Introduction
+# Employee Attrition Problem
+
 I am exploring the employee dataset to solve following research questions: 
 * WHY EMPLOYEE ARE PRONE TO LEAVE AFTER ANALYSING THIS DATA SET?
 * WHAT TYPE OF EMPLOYEE ARE PRONE TO LEAVE THE COMPANY?
