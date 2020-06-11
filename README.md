@@ -12,3 +12,8 @@ I am exploring the employee dataset to solve following research questions:
 
 
 ## Second Part - Data Preparation and Expolration
+
+
+## Third Part - Data Modeling
+
+## Fourth Part -  Important Features for Employee Turnover
