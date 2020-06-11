@@ -11,8 +11,10 @@ I am exploring the employee dataset to solve following research questions:
 
 
 
-## Second Part - Data Preparation and Expolration
+## Second Part - Data Preparation and Exploration
 
+
+![alt text](https://github.com/cghimire/Employee-Attrition-Problem/blob/master/df_existing-histogram.png " Current employee Histogram")
 
 ## Third Part - Data Modeling
 
