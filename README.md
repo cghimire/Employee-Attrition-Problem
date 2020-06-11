@@ -5,17 +5,16 @@ I am exploring the employee dataset to solve following research questions:
 * What type of employee are prone to leave the company?
 * Predict the future employee who would tend to leave the company.
 
-## First Part - Data Loading
+
+
+## First Part - Data Preparation and Exploration
 
 
 
-
-
-## Second Part - Data Preparation and Exploration
 
 
 ![alt text](https://github.com/cghimire/Employee-Attrition-Problem/blob/master/df_existing-histogram.png " Current employee Histogram")
 
-## Third Part - Data Modeling
+## Second Part - Data Modeling
 
-## Fourth Part -  Important Features for Employee Turnover
+## Third Part -  Important Features for Employee Turnover
