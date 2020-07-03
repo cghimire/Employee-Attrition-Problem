@@ -1,9 +1,10 @@
 # Employee Attrition Problem
 ## Table of Content
   * [Overview](#overview)
-  * [Data Preparation and Exploration](#data Preparation and Exploration)
-  * [Data Modeling](#data Modeling)
-  * [Important Features for Employee Turnover](#important Features for Employee Turnover)
+  * [Motivation](#motivation)
+  * [Data Preparation and Exploration](#data-preparation-and-exploration)
+  * [Data Modeling](#data-modeling)
+  * [Important Features for Employee Turnover](#important-features-for-employee-turnover)
 
 ## Overview
 
