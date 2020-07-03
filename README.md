@@ -2,7 +2,6 @@
 ## Table of Content
   * [Overview](#overview)
   * [Data Preparation and Exploration](#data Preparation and Exploration)
-  * [Installation](#installation)
   * [Data Modeling](#data Modeling)
   * [Important Features for Employee Turnover](#important Features for Employee Turnover)
 
