@@ -24,6 +24,8 @@ I am exploring the employee dataset to solve following research questions:
 
 ![alt text](https://github.com/cghimire/Employee-Attrition-Problem/blob/master/df_existing-histogram.png " Current employee Histogram")
 
+### Histogram of Current Employee
+
 ## Data Modeling
 
 ## Important Features for Employee Turnover
