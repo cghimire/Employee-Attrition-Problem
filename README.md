@@ -1,7 +1,6 @@
 # Employee Attrition Problem
 ## Table of Content
   * [Overview](#overview)
-  * [Motivation](#motivation)
   * [Data Preparation and Exploration](#data-preparation-and-exploration)
   * [Data Modeling](#data-modeling)
   * [Important Features for Employee Turnover](#important-features-for-employee-turnover)
@@ -13,17 +12,16 @@ I am exploring the employee dataset to solve following research questions:
 * What type of employee are prone to leave the company?
 * Predict the future employee who would tend to leave the company.
 
-## Motivation
-
-
 ## Data Preparation and Exploration
 
 ![alt text](https://github.com/cghimire/Employee-Attrition-Problem/blob/master/df_existing-histogram.png " Current employee Histogram")
 
-  #### Histogram of Current Employee
+  #### *Histogram of Current Employee*
   
   ![Alt Text](https://github.com/cghimire/Employee-Attrition-Problem/blob/master/df_nonexisting_histogram_plots.png " ex-employee Histogram")
-  #### Histogram of ex-employee
+  #### *Histogram of ex-employee*
+  
+  A few observations can be made based on the information and histograms for numerical features. Many histograms are tail-heavy; indeed several distributions are right-skewed (e.g.time_spend_company, promotion_last_5years). Data transformation methods may be required to approach a normal distribution prior to fitting a model to the data.
   
 ## Data Modeling
 
