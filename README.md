@@ -26,9 +26,10 @@ A few observations can be made based on the information and histograms for numer
 
 I use a range of baseline algorithms before we move on to more sophisticated solutions. The algorithms considered in this section are: Logistic Regression, Random Forest, and, SVM.
 
-## Important Features for Employee Turnover
 Since this is my real project during my internship, I don't mention the exact result here, but I outlined some inportant features to predict the employee turnover. 
 Based on ROC graph, the logistic regression showed higher AUC score compared to rendom forest.
+
+## Important Features for Employee Turnover
 
 As a concluded remark, as the company generates more data on its employees (on New Joiners and recent Leavers) the algorithm can be re-trained using the additional data and theoritically generate more accurate predictions to identify high-risk employees of leaving based on the probabilistic label assigned to each feature variable (i.e. employee) by the algorithm.
 
