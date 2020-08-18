@@ -37,7 +37,8 @@ As a concluded remark, as the company generates more data on its employees (on N
 
 Employees can be assigning a "Risk Category" based on the predicted label such that:
 
-**Low-risk** for employees with label < 0.6
-**Medium-risk** for employees with label between 0.6 and 0.8
-**High-risk** for employees with label > 0.8
+* **Low-risk** for employees with label < 0.6
+* **Medium-risk** for employees with label between 0.6 and 0.8
+* **High-risk** for employees with label > 0.8
 
+**A strategic "Retention Plan"** should be drawn for each Risk Category group. The face-to-face meetings between a HR representative and employees can be initiated for medium- and high-risk employees to discuss work conditions. Also, a meeting with those employee's Line Manager would allow to discuss the work environment within the team and whether steps can be taken to improve it.
