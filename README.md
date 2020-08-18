@@ -15,13 +15,12 @@ I am exploring the employee dataset to solve following research questions:
 ## Data Preparation and Exploration
 
 ![alt text](https://github.com/cghimire/Employee-Attrition-Problem/blob/master/df_existing-histogram.png " Current employee Histogram")
-
-   *Histogram of Current Employee*
+*Histogram of Current Employee*
   
-  ![Alt Text](https://github.com/cghimire/Employee-Attrition-Problem/blob/master/df_nonexisting_histogram_plots.png " ex-employee Histogram")
-            *Histogram of ex-employee*
+![Alt Text](https://github.com/cghimire/Employee-Attrition-Problem/blob/master/df_nonexisting_histogram_plots.png " ex-employee Histogram")
+*Histogram of ex-employee*
   
-  A few observations can be made based on the information and histograms for numerical features. Many histograms are tail-heavy; indeed several distributions are right-skewed (e.g.time_spend_company, promotion_last_5years). Data transformation methods may be required to approach a normal distribution prior to fitting a model to the data.
+A few observations can be made based on the information and histograms for numerical features. Many histograms are tail-heavy; indeed several distributions are right-skewed (e.g.time_spend_company, promotion_last_5years). Data transformation methods may be required to approach a normal distribution prior to fitting a model to the data.
   
 ## Data Modeling
 
