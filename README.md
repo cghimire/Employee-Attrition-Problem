@@ -3,7 +3,7 @@
   * [Overview](#overview)
   * [Data Preparation and Exploration](#data-preparation-and-exploration)
   * [Data Modeling](#data-modeling)
-  * [Important Features for Employee Turnover](#important-features-for-employee-turnover)
+  * [Important Features and Conclusion](#important-features-for-employee-turnover)
 
 ## Overview
 
